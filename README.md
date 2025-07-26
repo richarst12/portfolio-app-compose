@@ -128,9 +128,9 @@ cd portfolio-app-compose
 
 ---
 
-## 👩‍💼 About Me
+## About Me
 
-**Richa Sharma**
+**Richa Sharma** |
 Android Engineer | Medium Blogger
 🔗 [LinkedIn](https://www.linkedin.com/in/richa-sharma-67b56a114/)
 📝 [Medium](https://medium.com/@sharmaricha7724)
